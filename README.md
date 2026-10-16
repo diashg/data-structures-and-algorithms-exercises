@@ -1,2 +1,6 @@
-# data-structures-and-algorithms-exercises
-Python exercise from the DSA course, Bachelor in Data Science, University of Neuchâtel (in French)
+# Data Structures & Algorithms (DSA) - Exercises
+
+Python exercises completed in **Autumn 2025** during the **1st semester of 2nd year** of the Bachelor in Data Science at the **University of Neuchâtel**.
+
+- **Topics covered:** Algorithms, recursion, dynamic programming, sorting, trees, heaps, hash tables, and graphs.
+- **Language:** Code in Python, comments, descriptions and explanations in French.
